@@ -1,5 +1,6 @@
 # Netflix-Data-Analysis
-![download (1)](https://user-images.githubusercontent.com/103982094/209926483-4a96bc81-13d1-40c5-b55b-d5a29482e355.png)
+![download](https://user-images.githubusercontent.com/103982094/209927060-8c7923cd-1c36-40ac-a7a6-c16ff7f9192f.png)
+
 
 Importance Of Data Science
 
